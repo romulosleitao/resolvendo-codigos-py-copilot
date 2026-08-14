@@ -1,4 +1,4 @@
-# 🐍 Resolução de Desafios em Python com Gemini
+# 🐍 Resolução de Desafio em Python com Gemini
 
 Repositório criado para a entrega do desafio prático de Python, focado em manipulação de dados, estruturas básicas e boas práticas de programação, utilizando Inteligência Artificial como suporte de desenvolvimento.
 
